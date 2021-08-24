@@ -18,7 +18,7 @@ de rede social que visa iniciar e melhorar o relacionamento e a conexão entre t
 "Microempreendedor Individual (MEI)".</h2>
 
 
-<p><img align="center" height="300cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=projeto-amei&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="projeto-amei" /></p>
+<p><img align="center" height="300cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=projeto-amei&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="projeto-amei" /></p>
 
 
 <h6><i>O projeto foi desenvolvido por <a href="https://github.com/gumunizs">Gustavo Muniz</a>, <a href="https://github.com/joaovitormo">João Vitor</a>,
